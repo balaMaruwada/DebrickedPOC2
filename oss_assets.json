@@ -1,0 +1,33 @@
+[
+
+{
+
+“component” : “OJDBC6”,
+
+“vendor” : “Oracle”,
+
+“dependency” : “runtime”,
+
+“license” : “Oracle Free Use Terms and Conditions (FUTC)”,
+
+“license_url” : “https://www.oracle.com/downloads/licenses/oracle-license.html”
+
+},
+
+{
+
+“component” : “tomcat”,
+
+“vendor” : “apache”,
+
+“dependency” : “runtime”,
+
+“license” : “Apache-2.0”,
+
+“license_url” : “https://raw.githubusercontent.com/apache/tomcat/master/LICENSE”
+
+},
+
+. . .
+
+]
